@@ -172,7 +172,7 @@ WebUI.click(findTestObject('Object Repository/Split Amount/Authorization/Page_/i
 /*WebUI.click(findTestObject('Object Repository/Split Amount/Authorization/Page_/input_()-Mandatory Fields_ctl0_2'))
 */
 'Reject Button'
-WebUI.delay(2)
+WebUI.delay(3)
 
 WebUI.acceptAlert()
 

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Excecution Profile</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'admin'</initValue>
+      <name>MKUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'4nvbrPglk7k='</initValue>
+      <name>MKPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Split Amount-Debit Seq No.</description>
+      <initValue>'18110007490'</initValue>
+      <name>DSeqNo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Split Amount-Cebit Seq No.</description>
+      <initValue>'18110007401'</initValue>
+      <name>CSeqNo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'admin1'</initValue>
+      <name>CKUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'4nvbrPglk7k='</initValue>
+      <name>CKPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Manual Match_Debit Seq No.</description>
+      <initValue>'1812s000102'</initValue>
+      <name>MM_Debit</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Manual Match_Credit Seq No.</description>
+      <initValue>'1812s000086'</initValue>
+      <name>MM_Credit</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Manual Match_Lot No. created after Maker entry</description>
+      <initValue>''</initValue>
+      <name>MM_LotNo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Change Status-Debit Seq No</description>
+      <initValue>'18110007478'</initValue>
+      <name>ChangeStatus_DSeqNo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Change Status-Credit Seq No</description>
+      <initValue>'1812s000044'</initValue>
+      <name>ChangeStatus_CSeqNo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'18110007483'</initValue>
+      <name>UB_CSeqNo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'18110007531'</initValue>
+      <name>UB_DSeqNo</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
